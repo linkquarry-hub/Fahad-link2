@@ -13,8 +13,8 @@
     { "src": "/wakarpass", "dest": "/wakarpass.js" },
     { "src": "/ajy1", "dest": "/ajy1.js" },
     { "src": "/ajy1pass", "dest": "/ajy1pass.js" },
-    { "src": "/gnd", "dest": "/gnd.js" },
-    { "src": "/gndpass", "dest": "/gndpass.js" },
+    { "src": "/mja", "dest": "/mja.js" },
+    { "src": "/mjapass", "dest": "/mjapass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
   ]
 }
